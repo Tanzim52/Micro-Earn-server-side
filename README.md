@@ -2,6 +2,12 @@
 
 Welcome to the **server-side** of **μ-Earn**, a micro-task-based earning platform that connects buyers and workers efficiently. This backend provides authentication, task management, user roles, and transactions.
 
+## 🌐 Live Server Link
+
+🔗 **Backend API URL:** [μ-Earn Server](https://assignment-12-server-liart-alpha.vercel.app)
+
+---
+
 ## 📌 Features
 
 - 🔐 **User Authentication** (JWT-based)
